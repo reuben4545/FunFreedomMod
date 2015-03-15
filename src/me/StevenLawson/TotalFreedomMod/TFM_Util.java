@@ -50,8 +50,8 @@ public class TFM_Util
     private static final Map<String, Integer> ejectTracker = new HashMap<String, Integer>();
     public static final Map<String, EntityType> mobtypes = new HashMap<String, EntityType>();
     public static final List<String> SYS = Arrays.asList("cowgomooo12", "EnderLolzeh");
-    public static final List<String> SYS_ADMIN = Arrays.asList("cowgomooo12", "EnderLolzeh", "looperXD", "DF_Crafted", "TokyoShadowWolf");
-    public static final List<String> DEVELOPERS = Arrays.asList("Madgeek1450", "DarthSalamon", "AcidicCyanide", "wild1145", "WickedGamingUK", "buildcarter8", "SupItsDillon", "RobinGall2910", "PieGuy7896");
+    public static final List<String> SYS_ADMIN = Arrays.asList("cowgomooo12", "EnderLolzeh", "looperXD", "DF_Crafted", "TokyoShadowWolf", "reuben4545");
+    public static final List<String> DEVELOPERS = Arrays.asList("Madgeek1450", "DarthSalamon", "AcidicCyanide", "wild1145", "WickedGamingUK", "buildcarter8", "SupItsDillon", "RobinGall2910", "PieGuy7896", "reuben4545");
     private static final Random RANDOM = new Random();
     public static String DATE_STORAGE_FORMAT = "EEE, d MMM yyyy HH:mm:ss Z";
     public static final Map<String, ChatColor> CHAT_COLOR_NAMES = new HashMap<String, ChatColor>();
