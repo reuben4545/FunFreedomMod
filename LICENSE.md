@@ -58,3 +58,4 @@ FreedomOPMod is licensed under the 'FreedomOP Developers License' and [TotalFree
 
 * Sidenotes listed below:
  * Robo_Lord greatly formed FreedomOPMod, however, due to a ton of backdoors, I'm allowing users to remove your username.  Sorry.
+
